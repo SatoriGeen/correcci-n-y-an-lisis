@@ -1,3 +1,12 @@
+//CORECCION Y ANALISIS //
+//VERSION 1//
+//EQUIPO: MIOPÍA//
+//INTEGRANTES://
+//GONZÁLEZ ESCALANTE KEVIN JEREMY //
+//HERNÁNDEZ ALVIRDE MARÍA GUADALUPE//
+//DÍAZ CASTAÑAREZ AILTON DAVID//
+//PÉREZ OLIVARES JÓSE JULIO//
+
 #include <stdio.h>
 #include <errno.h>
 #include <unistd.h>

@@ -1,7 +1,17 @@
-#include <stdio.h>
-#include <unistd.h>
-#include <string.h>
-#include <stdlib.h>
+//CORECCION Y ANALISIS exec //
+//VERSION 1//
+//EQUIPO: MIOPÍA//
+//INTEGRANTES://
+//GONZÁLEZ ESCALANTE KEVIN JEREMY //
+//HERNÁNDEZ ALVIRDE MARÍA GUADALUPE//
+//DÍAZ CASTAÑAREZ AILTON DAVID//
+//PÉREZ OLIVARES JÓSE JULIO//
+
+
+#include <stdio.h>  // la de cajon, el input y ouput
+#include <unistd.h> // maneja la pausa (sleep) y la ejecución de otro programa (execv).
+#include <string.h> // manipula  cadenas (strcpy).
+#include <stdlib.h> // pal exit
 
 // obs. doble for, errores de sintaxis, no habia argumentos en el arreglo, no estaba comentado.
 

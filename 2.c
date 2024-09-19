@@ -1,3 +1,12 @@
+//CORECCION Y ANALISIS //
+//VERSION 1//
+//EQUIPO: MIOPÍA//
+//INTEGRANTES://
+//GONZÁLEZ ESCALANTE KEVIN JEREMY //
+//HERNÁNDEZ ALVIRDE MARÍA GUADALUPE//
+//DÍAZ CASTAÑAREZ AILTON DAVID//
+//PÉREZ OLIVARES JÓSE JULIO//
+
 #include <sys/types.h>
 #include <unistd.h> //esta libreria es para poder crear hilos
 #include <stdlib.h> //las librerias estandas de c para entrada y salida

@@ -1,3 +1,12 @@
+//CORECCION Y ANALISIS //
+//VERSION 1//
+//EQUIPO: MIOPÍA//
+//INTEGRANTES://
+//GONZÁLEZ ESCALANTE KEVIN JEREMY //
+//HERNÁNDEZ ALVIRDE MARÍA GUADALUPE//
+//DÍAZ CASTAÑAREZ AILTON DAVID//
+//PÉREZ OLIVARES JÓSE JULIO//
+
 #include <unistd.h>  // Librería para fork(), getpid(), getppid(), sleep()
 #include <stdlib.h>  // Librería para exit()
 #include <stdio.h>   // Librería para printf()
